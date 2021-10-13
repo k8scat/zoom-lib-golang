@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/zoom-lib-golang/zoom-lib-golang"
+	"github.com/k8scat/zoom-lib-golang"
 )
 
 func main() {
